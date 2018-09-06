@@ -9,7 +9,7 @@ public class Tela extends JFrame  implements ActionListener
    JLabel L1, L2, L3;
    JPasswordField Sx;
                 
-   int Vezes = 0, variavel;
+   int Vezes = 0;
 		
    public Tela()
    {
