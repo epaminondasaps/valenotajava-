@@ -10,7 +10,7 @@ public class Tela extends JFrame  implements ActionListener
    JPasswordField Sx;
                 
    int Vezes = 0;
-		int a,b,c;
+		
    public Tela()
    {
       setTitle("^");
